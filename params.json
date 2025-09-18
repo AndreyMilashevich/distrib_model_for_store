@@ -1,0 +1,11 @@
+{
+  "sales_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\all_sales_for_Git.csv",
+  "dim_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\dim_plu_for_Git.csv",
+  "compatibility_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\compatibility_matrix.csv",
+  "height": 30,
+  "width":40, 
+  "depth": 60,
+  "fullness": 0.85,
+  "max_plu_number": 6,
+  "reserv_volume": 0.08
+}
