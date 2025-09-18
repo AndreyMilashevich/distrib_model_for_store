@@ -1,7 +1,7 @@
 {
-  "sales_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\all_sales_for_Git.csv",
-  "dim_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\dim_plu_for_Git.csv",
-  "compatibility_path": "C:\\Users\\milas\\OneDrive\\Рабочий стол\\K-rob\\Для GitHub\\compatibility_matrix.csv",
+  "sales_path": "C:\\...\\all_sales_for_Git.csv",
+  "dim_path": "C:\\...\\dim_plu_for_Git.csv",
+  "compatibility_path": "C:\\...\\compatibility_matrix.csv",
   "height": 30,
   "width":40, 
   "depth": 60,
