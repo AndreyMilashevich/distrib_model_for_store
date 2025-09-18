@@ -71,7 +71,8 @@
   "fullness": 0.85,
   "reserv_volume": 0.08,
   "max_plu_number": 6
-}```
+}
+```
 
 ### 1. Продажи (`sales_path`)
 Должен содержать колонки:
